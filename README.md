@@ -1,8 +1,7 @@
 # Blog(Em Desenvolvimento)
-Desenvolvimento de uma API Blog em ASP.NET Core com Boas Práticas e Funcionalidades Avançadas.
 
-### Objetivo
-Este projeto tem como objetivo o estudo e implementação de uma API robusta utilizando ASP.NET, seguindo boas práticas de desenvolvimento. A aplicação incorpora o padrão MVC (Model-View-Controller) e faz uso do Entity Framework Core para interação com o banco de dados, adotando a abordagem Code First para geração de migrations e estruturação do banco de dados.
+### Descrição Geral
+Este projeto tem como objetivo o estudo e implementação de uma API robusta utilizando ASP.NET Core, seguindo boas práticas de desenvolvimento. A aplicação incorpora o padrão MVC (Model-View-Controller) e faz uso do Entity Framework Core para interação com o banco de dados, adotando a abordagem Code First para geração de migrations e estruturação do banco de dados.
 
 ### Principais funcionalidades e características:
 - **Geração e Gerenciamento de Senhas**: Implementação de mecanismos para geração segura de senhas, com validações e políticas de complexidade.
