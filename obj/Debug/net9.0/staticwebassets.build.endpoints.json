@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Images/43871522-5c38-4aa3-8d38-5eed0525c5ad.jpg",
+      "AssetFile": "Images/43871522-5c38-4aa3-8d38-5eed0525c5ad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "472529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MrESsNATj+6HwwqeBRvcXv4izF5iczCnwSIeu5/zTPI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 20:12:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MrESsNATj+6HwwqeBRvcXv4izF5iczCnwSIeu5/zTPI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/43871522-5c38-4aa3-8d38-5eed0525c5ad.mqd1bao61i.jpg",
+      "AssetFile": "Images/43871522-5c38-4aa3-8d38-5eed0525c5ad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "472529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MrESsNATj+6HwwqeBRvcXv4izF5iczCnwSIeu5/zTPI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 20:12:17 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mqd1bao61i"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MrESsNATj+6HwwqeBRvcXv4izF5iczCnwSIeu5/zTPI="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/43871522-5c38-4aa3-8d38-5eed0525c5ad.jpg"
+        }
+      ]
+    }
+  ]
+}
