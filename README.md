@@ -10,6 +10,6 @@ Este projeto tem como objetivo o estudo e implementação de uma API robusta uti
 - **Migrations com Code First**: Desenvolvimento do banco de dados a partir do código, utilizando migrations para garantir a evolução consistente e controlada do esquema do banco de dados.
 - **Interação com Banco de Dados**: Utilização do Entity Framework Core para realizar operações CRUD (Create, Read, Update, Delete) de forma eficiente e segura, com suporte a consultas complexas e otimizadas.
 - **Autenticação de Conta**: Implementação de fluxos de autenticação de usuários, incluindo registro e login.
-- **Tratamento de Exceções**: O código faz uso de blocos try-catch para capturar exceções e retornar respostas adequadas ao cliente, como erros 500 para falhas internas e 404 para recursos não encontrados
+- **Tratamento de Exceções**: O código faz uso de blocos try-catch para capturar exceções e retornar respostas adequadas ao cliente, como erros 500 para falhas internas e 404 para recursos não encontrados.
 
 Este projeto está em constante desenvolvimento, irei terminá-lo em breve.
