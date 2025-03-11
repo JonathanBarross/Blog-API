@@ -4,6 +4,24 @@ Projeto desenvolvido a fins de estudo para colocar os conhecimentos adquiridos n
 
 ---
 
+## 🌟 **Destaques do Projeto**
+
+- **Segurança:** Autenticação JWT e criptografia de senhas.
+- **Boas Práticas:** Uso de migrations, tratamento de exceções e padrão MVC.
+- **Escalabilidade:** Pronto para evoluir com testes, logs e monitoramento.
+
+---
+
+## 📂 **Estrutura do Projeto**
+
+- **Controllers:** Endpoints da API (Account, Category, etc.).
+- **Models:** Entidades do banco de dados (User, Category, Post, etc.).
+- **Data:** Configuração do contexto do banco de dados e migrations.
+- **Services:** Lógica de negócio (TokenService, etc.).
+- **ViewModels:** Modelos para validação e transferência de dados.
+
+---
+
 ## ⚙️ **Funcionalidades**
 
 - **Autenticação JWT:** Segurança robusta com tokens JWT para acesso aos recursos.
@@ -74,11 +92,10 @@ Projeto desenvolvido a fins de estudo para colocar os conhecimentos adquiridos n
       ```bash
       dotnet ef database update
       ```
-4. Execute o projeto:
+4. Execute o projeto e depois teste os endpoints usando o Postman:
     ```bash  
     dotnet run
     ```
-   - Agora teste os endpoints usando o Postman.
 
 ---
 
@@ -144,18 +161,5 @@ Projeto desenvolvido a fins de estudo para colocar os conhecimentos adquiridos n
 
 ---
 
-## 📂 **Estrutura do Projeto**
 
-- **Controllers:** Endpoints da API (Account, Category, etc.).
-- **Models:** Entidades do banco de dados (User, Category, Post, etc.).
-- **Data:** Configuração do contexto do banco de dados e migrations.
-- **Services:** Lógica de negócio (TokenService, etc.).
-- **ViewModels:** Modelos para validação e transferência de dados.
 
----
-
-## 🌟 **Destaques do Projeto**
-
-- **Segurança:** Autenticação JWT e criptografia de senhas.
-- **Boas Práticas:** Uso de migrations, tratamento de exceções e padrão MVC.
-- **Escalabilidade:** Pronto para evoluir com testes, logs e monitoramento.
