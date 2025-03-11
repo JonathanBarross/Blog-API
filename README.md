@@ -46,11 +46,11 @@ Projeto desenvolvido a fins de estudo para colocar os conhecimentos adquiridos n
 
 ## 📦 **Pacotes Utilizados**
 
+- **Microsoft.AspNetCore.Authentication.JwtBearer**  
+  Para autenticação JWT.
+
 - **Microsoft.AspNetCore.Authentication**  
   Para funcionalidades básicas de autenticação.
-
-- **Microsoft.AspNetCore.Authentication.JwtBearer**
-  Para autenticação JWT.
 
 - **Microsoft.EntityFrameworkCore.Design**  
   Para gerenciar migrations e design-time do Entity Framework Core.
